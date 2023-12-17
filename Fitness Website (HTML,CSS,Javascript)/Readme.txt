@@ -1,0 +1,1 @@
+This website is made using HTML , CSS & Javacript and you are free to use it :)
